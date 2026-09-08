@@ -1,0 +1,9 @@
+# File produced by AccuTrans 3D
+
+newmtl legoPhong
+Ns 18.0
+d 1.0
+illum 2
+Kd 1.0 1.0 0
+Ka 1.0 1.0 0
+Ks 0 0 0
